@@ -126,6 +126,3 @@ dmypy.json
 .pyre/
 
 .idea/
-
-src/nca/settings/dev.py
-src/public/
